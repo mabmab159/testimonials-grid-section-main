@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/testimonials-grid-section-main/static/css/main.c966117a.chunk.css",
+    "main.js": "/testimonials-grid-section-main/static/js/main.929602c4.chunk.js",
+    "main.js.map": "/testimonials-grid-section-main/static/js/main.929602c4.chunk.js.map",
+    "runtime-main.js": "/testimonials-grid-section-main/static/js/runtime-main.1e3ce513.js",
+    "runtime-main.js.map": "/testimonials-grid-section-main/static/js/runtime-main.1e3ce513.js.map",
+    "static/js/2.6d9fb11a.chunk.js": "/testimonials-grid-section-main/static/js/2.6d9fb11a.chunk.js",
+    "static/js/2.6d9fb11a.chunk.js.map": "/testimonials-grid-section-main/static/js/2.6d9fb11a.chunk.js.map",
+    "index.html": "/testimonials-grid-section-main/index.html",
+    "static/css/main.c966117a.chunk.css.map": "/testimonials-grid-section-main/static/css/main.c966117a.chunk.css.map",
+    "static/js/2.6d9fb11a.chunk.js.LICENSE.txt": "/testimonials-grid-section-main/static/js/2.6d9fb11a.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-quotation.6b460e30.svg": "/testimonials-grid-section-main/static/media/bg-pattern-quotation.6b460e30.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e3ce513.js",
+    "static/js/2.6d9fb11a.chunk.js",
+    "static/css/main.c966117a.chunk.css",
+    "static/js/main.929602c4.chunk.js"
+  ]
+}
