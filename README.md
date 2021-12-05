@@ -44,6 +44,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://mabmab159.github.io/)
+- Website - [Miguel Berrio](https://mabmab159.github.io/)
 - Frontend Mentor - [@mabmab159](https://www.frontendmentor.io/profile/mabmab159)
 - Twitter - [@mabmab0159](https://twitter.com/mabmab0159)
